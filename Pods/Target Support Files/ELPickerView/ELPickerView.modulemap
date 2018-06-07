@@ -1,0 +1,6 @@
+framework module ELPickerView {
+  umbrella header "ELPickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

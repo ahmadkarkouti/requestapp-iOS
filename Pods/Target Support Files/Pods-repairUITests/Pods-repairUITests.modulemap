@@ -1,0 +1,6 @@
+framework module Pods_repairUITests {
+  umbrella header "Pods-repairUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
